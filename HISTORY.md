@@ -18,3 +18,8 @@ Documented textual flow from feature branch -> develop -> main release.
 Captured common questions about branch strategy and merge rules.
 
 ---
+## Feature: CLI tips
+
+Added commands for viewing history graph and tags.
+
+---
