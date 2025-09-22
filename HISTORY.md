@@ -13,3 +13,13 @@ Added overview of git-flow intent for stakeholders.
 Documented textual flow from feature branch -> develop -> main release.
 
 ---
+## Feature: FAQ
+
+Captured common questions about branch strategy and merge rules.
+
+---
+## Feature: CLI tips
+
+Added commands for viewing history graph and tags.
+
+---
