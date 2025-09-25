@@ -23,3 +23,8 @@ Captured common questions about branch strategy and merge rules.
 Added commands for viewing history graph and tags.
 
 ---
+## Hotfix: Release notes wording
+
+Fixed minor typo discovered on main after v1.1.0.
+
+---
