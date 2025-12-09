@@ -1,6 +1,16 @@
 # Changelog
 
-All notable changes will be documented here once the history is seeded.
+All notable changes in this illustrative repository.
 
 ## [Unreleased]
-- Repository scaffolded to demonstrate git-flow with `main` and `develop`.
+- Repository seeded for demo; no further changes planned.
+
+## [v1.1.1] - 2025-09-25
+- Hotfix: corrected wording in release notes after v1.1.0.
+
+## [v1.1.0] - 2025-09-22
+- Added CLI tips for viewing the history graph and tags.
+- Documented FAQs about branch strategy.
+
+## [v1.0.0] - 2025-09-08
+- Initial feature passes: landing copy and process diagram narrative.

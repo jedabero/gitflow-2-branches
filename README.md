@@ -1,6 +1,6 @@
 # Git Flow (Main + Develop) Demo
 
-This repository will showcase a lightweight git-flow style history using only two long-lived branches: `main` and `develop`. No application code is included—just Markdown and commit history crafted to illustrate the model.
+This repository showcases a lightweight git-flow style history using only two long-lived branches: `main` and `develop`. No application code is included—just Markdown and commit history crafted to illustrate the model.
 
 ## Goals
 - Show how `main` and `develop` evolve over time.
@@ -13,10 +13,15 @@ This repository will showcase a lightweight git-flow style history using only tw
 - Narrative Markdown explaining each branch and merge.
 - Tags for releases (e.g., `v1.0.0`, `v1.1.0`, `v1.1.1`).
 
-## How to explore (after seeding)
+## How to explore
 ```bash
 git log --graph --oneline --decorate --all
 ```
+
+Key touchpoints:
+- Tags: `v1.0.0`, `v1.1.0`, `v1.1.1`.
+- Feature branches kept for reference (e.g., `feature/faq`).
+- `HISTORY.md` contains narrative entries for each change.
 
 ## Seeding the demo history
 Run the provided script from the `develop` branch with a clean working tree:
