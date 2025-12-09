@@ -18,7 +18,11 @@ This repository will showcase a lightweight git-flow style history using only tw
 git log --graph --oneline --decorate --all
 ```
 
-## Next steps
-1) Create `develop` from `main`.
-2) Add a seeding script that builds the history with spaced timestamps.
-3) Run the script to populate commits, merges, and tags.
+## Seeding the demo history
+Run the provided script from the `develop` branch with a clean working tree:
+
+```bash
+./scripts/seed-history.sh
+```
+
+It will create feature branches, merges, release tags, and a hotfix, with timestamps spaced across September 2025.
